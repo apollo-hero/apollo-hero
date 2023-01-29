@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @GoldenStar71
+- 👋 Hi, I’m @apollon-star
 - 👀 I’m interested in backend stack(Laravel/Node) and frontend stack (React/Vue)
 - 🌱 I’m currently on ElectronJS
 - 💞️ I’m looking to collaborate on this field
 
 
-![Views](https://komarev.com/ghpvc/?username=GoldenStar71&label=Views&color=green&style=flat)
+![Views](https://komarev.com/ghpvc/?username=apollon-star&label=Views&color=green&style=flat)
 
 
 ## Frontend
@@ -16,22 +16,21 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-
 <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 
 
-<a href="https://github.com/GoldenStar71">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GoldenStar71's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenStar71&theme=github-dark-blue&hide_border=true" height="192px"/>
+<a href="https://github.com/apollon-star">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="apollon-star's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=apollon-star&theme=github-dark-blue&hide_border=true" height="192px"/>
 </a>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GoldenStar71&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=apollon-star&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
 
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoldenStar71&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apollon-star&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=GoldenStar71&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=apollon-star&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
  -->
 <!---
-GoldenStar71/GoldenStar71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+apollon-star/apollon-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
