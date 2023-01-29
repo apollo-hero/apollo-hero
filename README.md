@@ -12,6 +12,8 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GoldenStar71&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoldenStar71&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
 <!---
 GoldenStar71/GoldenStar71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
