@@ -10,6 +10,8 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GoldenStar71's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenStar71&theme=github-dark-blue&hide_border=true" height="192px"/>
 </a>
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GoldenStar71&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
+
 <!---
 GoldenStar71/GoldenStar71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
