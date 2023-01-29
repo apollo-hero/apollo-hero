@@ -1,3 +1,4 @@
+<picture> <img align="right" src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - 👋 Hi, I’m @apollo-hero
 - 👀 I’m interested in backend stack(Laravel/Node) and frontend stack (React/Vue)
 - 🌱 I’m currently on ElectronJS
