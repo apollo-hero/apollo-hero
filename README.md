@@ -59,6 +59,10 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=apollo-hero&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
 
+
+### 🐍 A Snake Eating my Contributions Graph
+![Snake animation](https://github.com/apollo-hero/apollo-hero/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 apollo-hero/apollo-hero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
