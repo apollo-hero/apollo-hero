@@ -1,4 +1,5 @@
 <picture> <img align="right" src="https://github.com/apollo-hero/apollo-hero/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 - 👋 Hi, I’m @apollo-hero
 - 👀 I’m interested in backend stack(Laravel/Node) and frontend stack (React/Vue)
 - 🌱 I’m currently on ElectronJS
@@ -62,8 +63,8 @@
 
 [![apollo-hero's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=apollo-hero&theme=github)](https://github.com/apollo-hero/github-readme-activity-graph)
 
-
 ### 🐍 A Snake Eating my Contributions Graph
+
 ![Snake animation](https://github.com/apollo-hero/apollo-hero/blob/output/github-contribution-grid-snake.svg)
 
 <!---
