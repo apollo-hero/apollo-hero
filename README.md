@@ -63,7 +63,7 @@
 
 <!-- [![apollo-hero's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=apollo-hero&theme=github)](https://github.com/apollo-hero/github-readme-activity-graph) -->
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<!-- <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ---
 
@@ -74,7 +74,7 @@
     	</a>
   </p>
 </div>
-</details>
+</details> -->
 
 ### 🐍 A Snake Eating my Contributions Graph
 
