@@ -59,6 +59,8 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=apollo-hero&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
 
+[![apollo-hero's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=apollo-hero&theme=github)](https://github.com/apollo-hero/github-readme-activity-graph)
+
 
 ### 🐍 A Snake Eating my Contributions Graph
 ![Snake animation](https://github.com/apollo-hero/apollo-hero/blob/output/github-contribution-grid-snake.svg)
