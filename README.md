@@ -63,6 +63,19 @@
 
 <!-- [![apollo-hero's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=apollo-hero&theme=github)](https://github.com/apollo-hero/github-readme-activity-graph) -->
 
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+---
+
+<div>
+  <p align="center">
+    	<a href="https://github.com/apollon-hero/School-Mernstack">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=apollon-hero&repo=School-Mernstack&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
 ### 🐍 A Snake Eating my Contributions Graph
 
 ![Snake animation](https://github.com/apollo-hero/apollo-hero/blob/output/github-contribution-grid-snake.svg)
