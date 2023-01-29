@@ -55,10 +55,10 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=apollo-hero&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apollo-hero&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apollo-hero&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=apollo-hero&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true)
- -->
+
 <!---
 apollo-hero/apollo-hero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
