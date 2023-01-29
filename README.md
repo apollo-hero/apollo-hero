@@ -6,8 +6,8 @@
 
 ![Views](https://komarev.com/ghpvc/?username=GoldenStar71&label=Views&color=green&style=flat)
 
-<a href="https://github.com/dybbuk555">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dybbuk555's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dybbuk555&theme=monokai-metallian&hide_border=true" height="192px"/>
+<a href="https://github.com/GoldenStar71">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GoldenStar71's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenStar71&theme=monokai-metallian&hide_border=true" height="192px"/>
 </a>
 
 <!---
